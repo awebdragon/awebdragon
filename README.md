@@ -1,16 +1,14 @@
-## Hi there 👋
+## How I use technical tools
 
-<!--
-**awebdragon/awebdragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I use code, configuration, and data inspection to understand how platforms or systems behave under real constraints.
 
-Here are some ideas to get you started:
+## Systems & analysis focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My professional work centers on requirements translation, platform governance, validation, and operational stability in regulated environments.
+
+### Example: Balancing CMS flexibility with long-term maintainability
+
+- Context: Rebuilding a regulated CMS with competing needs for marketing flexibility, structured data, and future maintainability
+- Constraint: Page-builder style customization improved short-term usability but increased long-term migration and support risk
+- Decision: Standardized most content on structured templates, with a limited “flex” layout allowing controlled variation; documented clear guidance on when (and when not) to use it
+- Outcome: Met stakeholder needs without sacrificing data structure, reduced future migration risk, and improved editor decision-making through documentation
